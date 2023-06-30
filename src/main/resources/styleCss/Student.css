@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+ #homeS_btn{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}
+#SolveExam_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}#logout_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}

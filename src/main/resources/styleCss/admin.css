@@ -1,0 +1,30 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+ #home_btn{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}
+#addstu_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}#viewstu_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}#addtea_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}#viewtea_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}#logout_btn:hover{
+
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}
